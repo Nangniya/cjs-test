@@ -1,4 +1,5 @@
 import InfiniteSlide from "react-infinite-carousel-component";
+import { Reset } from "styled-reset";
 
 export default function Home() {
   const settings1 = {
@@ -40,6 +41,7 @@ export default function Home() {
 
   return (
     <>
+      <Reset />
       <article style={{ padding: "20px 0" }}>
         <InfiniteSlide {...settings1}>
           <div style={slideItem1Style}>

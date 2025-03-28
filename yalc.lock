@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "packages": {
+    "react-infinite-slides": {
+      "signature": "979d190fc5528734c80141b57bd03b55",
+      "file": true
+    },
+    "react-infinite-carousel-component": {
+      "signature": "d92921019bb0ed1f5cbcf569c5f38525",
+      "file": true
+    }
+  }
+}
